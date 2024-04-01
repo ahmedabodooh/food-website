@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+code {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
