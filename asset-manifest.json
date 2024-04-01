@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/food-website/static/css/main.d17878d2.css",
+    "main.js": "/food-website/static/js/main.fbad0ce1.js",
+    "static/js/453.2d40735f.chunk.js": "/food-website/static/js/453.2d40735f.chunk.js",
+    "static/media/2.png": "/food-website/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/about.png": "/food-website/static/media/about.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/food-website/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/untitled-design-12.webp": "/food-website/static/media/untitled-design-12.118b6f02cc384b03b561.webp",
+    "static/media/bac5.webp": "/food-website/static/media/bac5.51ead1834ad21ca02377.webp",
+    "static/media/1.jpg": "/food-website/static/media/1.960ff282036e3c4e63eb.jpg",
+    "static/media/2.jpg": "/food-website/static/media/2.f6e01ff2a6ae714f244b.jpg",
+    "static/media/01.jpg": "/food-website/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/bac1.webp": "/food-website/static/media/bac1.127b18a0dda880255da9.webp",
+    "static/media/02.jpg": "/food-website/static/media/02.a567a9db1482b99c0fab.jpg",
+    "static/media/instagram.png": "/food-website/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/social.png": "/food-website/static/media/social.1490801fa7fa633aef8b.png",
+    "index.html": "/food-website/index.html",
+    "main.d17878d2.css.map": "/food-website/static/css/main.d17878d2.css.map",
+    "main.fbad0ce1.js.map": "/food-website/static/js/main.fbad0ce1.js.map",
+    "453.2d40735f.chunk.js.map": "/food-website/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17878d2.css",
+    "static/js/main.fbad0ce1.js"
+  ]
+}
